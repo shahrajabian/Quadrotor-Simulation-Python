@@ -2,6 +2,8 @@
 
 This repository contains Python code for simulating a quadrotor UAV. It is designed for researchers and developers working on control systems and path planning algorithms. The simulation integrates the quadrotor dynamics using the Runge-Kutta numerical method.
 
+You can customize the quadrotor’s behavior and simulation settings by modifying the parameters in the 'quadrotor_parameters.py' file.
+
 Key features include:
 
 - Compatible with [Gymnasium  ](https://gymnasium.farama.org/) environments for reinforcement learning (RL) algorithms.
